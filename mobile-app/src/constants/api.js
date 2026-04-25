@@ -3,7 +3,7 @@
 // Steps: render.com → New Web Service → connect your GitHub
 //        repo (backend-ml/ folder) → get your service URL
 // ============================================================
-export const API_URL = 'http://localhost:8000';
+export const API_URL = 'https://finrisk-mlops-app-1.onrender.com';
 
 // For local development, comment the line above and use:
 // export const API_URL = 'http://172.25.35.86:8000';
