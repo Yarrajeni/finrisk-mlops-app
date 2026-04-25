@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+android/
+ios/
+dist/
+venv/
+__pycache__/
+*.log
+backend-ml/
+.github/
+scratch_clean.py
+replace_currency.py
+*.pkl
+*.db
